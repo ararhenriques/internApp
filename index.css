@@ -1,0 +1,51 @@
+body{
+    background-color: darkkhaki;
+}
+
+.header{
+    font-family: 'Alegreya SC', serif;
+    font-size: 35pt;
+    background-color: darkgreen;
+    width: 60%;
+    border-radius: 1.2em;
+    min-width: 70px;
+}
+
+h4{
+    font-size: 30pt;
+    font-family: 'Oswald', sans-serif;
+}
+
+#submit{
+    height: 4em;
+        width: 8em;
+        border-radius: 1.2em;
+        background-color: darkgreen;
+        border-color: #030202;
+        margin-top: 2em;
+        font-size: 14pt;
+            font-family: 'Oswald', sans-serif;
+}
+
+#quiz{
+    font-size: 30pt;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 2em;
+
+}
+
+#txt{
+    height: 5em;
+    width: 20em;
+    border-radius: 1.2em;
+}
+
+#results{
+    font-size: 18pt;
+    font-family: 'Oswald', sans-serif;
+}
+
+.answers{
+    padding-top: 1em;
+    padding-bottom: 2em;
+}
